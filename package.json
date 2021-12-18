@@ -1,5 +1,5 @@
 {
-  "name": "lurve-tracker-octo",
+  "name": "rails-7-epic-blog",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@hotwired/turbo-rails": "^7.0.0-rc.1",
